@@ -1,4 +1,4 @@
-# Welcome to MkDocs
+# Welcome to Corey's Static Site
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
@@ -12,6 +12,19 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 ## Project layout
 
     mkdocs.yml    # The configuration file.
+    site/         # The site file.
+        css/
+            base.css
+            bootstrap.min.css
+            font-awesome.min.css
+        fonts/    # Fonts.
+        img/      # Images.
+        js/       # Javascript.
+        search/   # Search.
+        404.html
+        index.html
+        sitemap.xml
+        sitemap.xml.gz
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.

@@ -1,2 +1,4 @@
 site_name: Corey's Static Site
 theme: windmill-dark
+  locale: en
+site_author: Corey Wales

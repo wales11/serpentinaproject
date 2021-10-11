@@ -1,9 +1,6 @@
 site_name: Corey's Static Site
 theme: windmill-dark
 site_author: Corey Wales
-plugins:
-  - search
-  - git-revision-date
 nav:
   Home: index.md
   Project Reflection: reflection/reflection-part1.md

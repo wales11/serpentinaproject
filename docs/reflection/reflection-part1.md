@@ -1,6 +1,6 @@
 # Project 1 Reflection
 
-Corey's Project 1 Narrative and Reflection
+Corey's Project 1 Reflection
 
 ## What is going well?
 
@@ -8,7 +8,7 @@ A lot of things are going well for the Serpentina Arts project. My partner, Jun,
 
 ## What has been challenging?
 
-The biggest challenge so far has been motivation for me. It’s hard to set aside time for me to do things when there is such a large time frame between due dates or parts of the project. While I have completed everything before I expected, and before it was due, I still find myself thinking that I could’ve done some things sooner. It’s also a bit weird when we talk a lot about this project and complete the first part of phase 1 in about a week, and then we stop talking about it for a week or two. I know that it’s something I still have to do, but it was a new experience, so to speak. I’m not sure if I prefer the way it was done but I much prefer the independent work time over regular class lectures. To put it more clearly, it wasn’t a bad thing per se, it was just a new way of doing something, at least for me. Figuring out how to start the artist bio, as well as exactly what information to include, and how to organize it, has been a struggle for me personally. I’m not the best at describing myself, and when I have to talk about other people, it is also hard for me. I don’t know how I can get better at it other than practice, but thinking about how to start the bio or what to include first is a challenge. 
+The biggest challenge so far has been motivation for me. It’s hard to set aside time for me to do things when there is such a large time frame between due dates or parts of the project. While I have completed everything before I expected, and before it was due, I still find myself thinking that I could’ve done some things sooner. It’s also a bit weird when we talk a lot about this project and complete the first part of Phase 1 in about a week, and then we stop talking about it for a week or two. I know that it’s something I still have to do, but it was a new experience, so to speak. I’m not sure if I prefer the way it was done but I much prefer the independent work time over regular class lectures. To put it more clearly, it wasn’t a bad thing per se, it was just a new way of doing something, at least for me. Figuring out how to start the artist bio, as well as exactly what information to include, and how to organize it, has been a struggle for me personally. I’m not the best at describing myself, and when I have to talk about other people, it is also hard for me. I don’t know how I can get better at it other than practice, but thinking about how to start the bio or what to include first is a challenge. 
 
 ## What can we do in Phase 2 to ensure the project is a success?
 

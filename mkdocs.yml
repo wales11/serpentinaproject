@@ -3,4 +3,5 @@ theme: windmill-dark
 site_author: Corey Wales
 nav:
   - Home: index.md
+  - Project Overview: reflection/project-overview.md
   - Project Reflection: reflection/reflection-part1.md
